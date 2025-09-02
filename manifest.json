@@ -1,0 +1,23 @@
+{
+    "name": "Dog Color Lens - See Through Your Dog's Eyes",
+    "short_name": "Dog Color Lens",
+    "description": "Transform images to understand how dogs see colors. Choose better toys for your pet.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4A90E2",
+    "categories": ["pets", "tools", "education"],
+    "lang": "en",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%234A90E2'/><circle cx='35' cy='40' r='8' fill='white'/><circle cx='65' cy='40' r='8' fill='white'/><path d='M35 65 Q50 75 65 65' stroke='white' stroke-width='3' fill='none'/></svg>",
+            "sizes": "192x192",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%234A90E2'/><circle cx='35' cy='40' r='8' fill='white'/><circle cx='65' cy='40' r='8' fill='white'/><path d='M35 65 Q50 75 65 65' stroke='white' stroke-width='3' fill='none'/></svg>",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+        }
+    ]
+}
