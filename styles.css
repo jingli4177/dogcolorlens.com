@@ -1,3 +1,20 @@
+/* 评价区评分条样式 */
+.rating-bar {
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.rating-bar svg {
+    margin-right: 2px;
+    vertical-align: middle;
+}
+.rating-bar .ml-2 {
+    margin-left: 8px;
+}
+.rating-bar .ml-1 {
+    margin-left: 4px;
+}
 /* Dog Color Lens - Enhanced Custom Styles */
 
 /* CSS Variables for consistent theming */
